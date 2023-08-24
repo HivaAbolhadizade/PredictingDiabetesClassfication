@@ -25,3 +25,5 @@ Zahra Hosseini,
 Najme Navabizade
 and me:)
 
+#### NOTE:
+The file "Diabetes-v3.ipynb" is large, You might not be able to view the code. The suggestion is to try using a VPN or downloading the file. Alternatively, you can download and open the "Diabetes-v3.html" file to view the code without the ability to run cells.
