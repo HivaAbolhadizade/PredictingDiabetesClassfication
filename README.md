@@ -1,1 +1,6 @@
-# DiabRisk-ML
+# Predicting Diabetes Risk Using Health Indicators - Machine Learning Approach
+This repository presents a machine learning model designed to predict whether individuals are at risk of diabetes based on specific health indicators. The aim of this project is to develop a predictive system that can assist healthcare professionals in diagnosing diabetes. The analysis is performed on the 2015BRFSS dataset, involving various preprocessing steps such as removal of duplicate data, dataset binarization, data balancing, and dimensionality reduction. The primary goal is to create a robust model capable of determining an individual's likelihood of developing diabetes. The models have been trained on the Diabetes Health Indicators Dataset available on Kaggle.
+## Dataset:
+The dataset can be accessed at https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset. It comprises data related to various health indicators such as blood glucose levels, blood pressure, body mass index, etc., for individuals, along with their diabetes status.
+## Data Preprocessing:
+Upon thorough examination of the data, it was discovered that there were some duplicated observations within the dataset. To enhance the model's learning process, these duplicate entries were removed. Furthermore, diabetes and prediabetes groups were merged, transforming the model into a binary classification problem.
