@@ -21,7 +21,8 @@ Considering the F1-score metric, the XGBoost model was identified as the best ch
 ![image](https://github.com/HivaAbolhadizade/PredictingDiabetesClassfication/assets/96919633/d06834ff-253a-4c33-b233-2495aff41924)
 
 ## Prepared by:
-@SalilHosseini , 
+[Salil Hosseini](https://github.com/SalilHosseini)
+ , 
 Najme Navabizade
 and me:)
 
